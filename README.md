@@ -1,6 +1,9 @@
 # colon_rocket
 *puts a Ruby Hash to your shell as a valid JSON object (without hash rockets)*
 
+
+*note: always returns `nil`*
+
 ___
 
 ```
