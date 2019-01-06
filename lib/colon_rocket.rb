@@ -19,5 +19,3 @@ class ColonRocket
 
   private_class_method :detect_collisions
 end
-
-ColonRocket.blastoff({ a: 1, "a" => { b: 2, "b" => 3 } })
