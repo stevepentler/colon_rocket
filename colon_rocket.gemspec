@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'colon_rocket'
-  s.version     = '0.0.4'
+  s.version     = '0.0.5'
   s.date        = Time.now
   s.summary     = "Hash => JSON"
   s.description = 'puts a Ruby Hash to your shell as a valid JSON object (without hash rockets)'
