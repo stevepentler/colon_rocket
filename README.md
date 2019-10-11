@@ -7,7 +7,7 @@
 ___
 
 ```
-require colon_rocket
+require 'colon_rocket'
 ColonRocket.blastoff(hash, allow_overwrite)
 ```
 
